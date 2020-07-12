@@ -29,9 +29,7 @@
     "type" : "docker",
     "image" : "thinger/grafana-plugin",
     "volumes" : {
-      "config" : "/etc/grafana",
-      "data" : "/var/lib/grafana",
-      "home" : "/usr/share/grafana"
+      "data" : "/var/lib/grafana"
     }
   },
   "interface" : {
