@@ -30,7 +30,7 @@
       "GF_LOG_MODE" : "console"
     },
     "type" : "docker",
-    "image" : "grafana/grafana:8.0.6",
+    "image" : "grafana/grafana",
     "volumes" : {
       "data" : "/var/lib/grafana"
     }
