@@ -1,4 +1,4 @@
-![Grafana](https://github.com/grafana/grafana/blob/master/docs/logo-horizontal.png?raw=true)
+![Grafana](https://s3.eu-west-1.amazonaws.com/thinger.io.files/plugins/grafana/img/grafana-icon.png)
 
 The open-source platform for monitoring and observability.
 
