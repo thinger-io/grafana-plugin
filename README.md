@@ -13,7 +13,7 @@ Grafana allows you to query, visualize, alert on and understand your metrics no 
 
 ## Get started
 
-- [Plugin Documentation](https://docs.thinger.io/features/plugins/grafana)
+- [Plugin Documentation](https://docs.thinger.io/plugins/grafana)
 
 Unsure if Grafana is for you? Watch Grafana in action on [play.grafana.org](https://play.grafana.org/)!
 
