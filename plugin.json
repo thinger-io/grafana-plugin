@@ -42,6 +42,7 @@
         "source": "datasources",
         "target": "/etc/grafana/provisioning/datasources/",
         "description": "Mount point for preconfigured datasources"
+      }
     ],
     "copy": {
       "datasources": "datasources"
