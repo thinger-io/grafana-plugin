@@ -28,7 +28,7 @@
       "GF_ANALYTICS_REPORTING_ENABLED" : "false",
       "GF_SECURITY_ALLOW_EMBEDDING" : "true",
       "GF_LOG_MODE" : "console",
-      "THINGER_INFLUXDB_TOKEN": "${THINGER_INFLUXDB_TOKEN}"
+      "THINGER_INFLUXDB_TOKEN": "{{THINGER_INFLUXDB_TOKEN}}"
     },
     "type" : "docker",
     "image" : "grafana/grafana:8.5.4",
