@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to Grafana plugin will be documented here.
 
+### [8.5.4] - 2022-06-02
+- Bumped Grafana version to 8.5.4
+- Added default configuration for InfluxDB2 backend
+
 ### [8.3.4] - 2022-05-17
 - Bumped Grafana version to 8.3.4
 
