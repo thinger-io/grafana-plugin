@@ -5,8 +5,6 @@ datasources:
     type: influxdb
     access: proxy
     url: http://${THINGER_HOST}:8086
-    secureJsonData:
-      httpHeaderName1: ${THINGER_INFLUXDB_TOKEN}
     database: ${THINGER_USER}
     jsonData:
       httpMode: GET
