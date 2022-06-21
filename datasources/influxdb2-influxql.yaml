@@ -10,5 +10,5 @@ datasources:
       httpMode: GET
       httpHeaderName1: 'Authorization'
     secureJsonData:
-      httpHeaderValue1: "Token ${THINGER_INFLUXDB_TOKEN"
+      httpHeaderValue1: "Token ${THINGER_INFLUXDB_TOKEN}"
     version: 1
