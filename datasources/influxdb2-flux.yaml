@@ -11,5 +11,5 @@ datasources:
       version: Flux
       organization: ${THINGER_USER}
       defaultBucket: ${THINGER_USER}
-    isDefault: true
+    isDefault: false
     version: 1

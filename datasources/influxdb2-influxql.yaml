@@ -11,4 +11,5 @@ datasources:
       httpHeaderName1: 'Authorization'
     secureJsonData:
       httpHeaderValue1: "Token ${THINGER_INFLUXDB_TOKEN}"
+    isDefault: true
     version: 1
